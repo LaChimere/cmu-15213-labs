@@ -1,5 +1,5 @@
 
-bomb/bomb:     file format elf64-x86-64
+bomb:     file format elf64-x86-64
 
 
 Disassembly of section .init:
